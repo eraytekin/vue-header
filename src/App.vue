@@ -1,0 +1,11 @@
+<template>
+  <div>
+     <home></home>
+  </div> 
+</template>
+<style>
+body{
+  margin:0;
+  padding:0;
+}
+</style>
