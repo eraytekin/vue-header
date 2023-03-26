@@ -1,4 +1,4 @@
-# Vue Navbar
+# Dynamic Vue Navbar
 
 > A Vue.js project
 
